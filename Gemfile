@@ -11,6 +11,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'pry-rails'
 gem 'dotenv-rails'
+gem 'foreman', require: false
 
 # Needed for Resque
 
